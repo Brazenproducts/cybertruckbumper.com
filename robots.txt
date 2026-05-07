@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cybertruckbumper.com/sitemap.xml
